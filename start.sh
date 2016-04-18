@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 env
 echo "ETCD_HOST:$ETCD_HOST"
 echo "ETCD_PORT:$ETCD_PORT"
