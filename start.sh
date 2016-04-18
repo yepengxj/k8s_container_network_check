@@ -1,4 +1,5 @@
 #!/bin/bash
+env
 echo "ETCD_HOST:$ETCD_HOST"
 echo "ETCD_PORT:$ETCD_PORT"
 echo "HOST_IP:$HOST_IP"
